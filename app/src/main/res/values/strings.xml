@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Contact List HW by Daniel Cichosz</string>
+    <string name="person_name">Name</string>
+    <string name="person_lastname">Last name</string>
+    <string name="add_person">Add new person</string>
+    <string name="person_phonenumber">Phone number</string>
+    <string name="person_birthdate">Birth date</string>
+    <string name="default_name">Gal</string>
+    <string name="default_lastname">Anonim</string>
+    <string-array name="images">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+        <item>drawable 4</item>
+        <item>drawable 5</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="delete_question">Are you sure you want to delete this person?</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="delete_dialog_tag">Delete tag</string>
+    <string name="delete_cancel_msg">Delete cancel message</string>
+    <string name="retry_msg">Retry message</string>
+    <string name="incorrectphone">Phone number is incorrect, please enter 9 digits phone number.</string>
+    <string name="incorrectname">Please enter new contact name.</string>
+    <string name="incorrectlastname">Please enter new contact lastname.</string>
+    <string name="call_dialog_tag">call tag</string>
+    <string name="call_question">Do you want to call </string>
+</resources>
