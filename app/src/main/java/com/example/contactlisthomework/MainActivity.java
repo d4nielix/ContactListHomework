@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     private void displayPersonInFragment(PersonListContent.Person person){
-        PersonInfoFragment personInfoFragment = ((PersonInfoFragment) getSupportFragmentManager().findFragmentById(R.id.displayFragment));
+        PersonInfoFragment personInfoFragment = ((PersonInfoFragment) getSupportFragmentManager().findFragmentById(R.id.displayPersonInfoFragment));
         if(personInfoFragment != null){
             personInfoFragment.displayPerson(person);
         }
