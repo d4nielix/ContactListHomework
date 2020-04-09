@@ -53,5 +53,6 @@
         app:layout_constraintStart_toEndOf="@+id/content"
         app:layout_constraintTop_toTopOf="parent"
         android:src="@drawable/ic_delete_black_24dp"
+        android:layout_marginRight="40dp"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
